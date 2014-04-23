@@ -1,6 +1,6 @@
 <div class="ds-thread"></div>
-<script type="text/javascript">
-	var duoshuoQuery = {short_name:"webfrogs"};
+	<script type="text/javascript">
+	var duoshuoQuery = {short_name:"vinci18"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -9,4 +9,4 @@
 		(document.getElementsByTagName('head')[0] 
 		|| document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-</script>
+	</script>

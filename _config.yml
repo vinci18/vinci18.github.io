@@ -6,4 +6,5 @@ pygments: true
 safe: true
 paginate: 16
 auto: true
+markdown: kramdown
 

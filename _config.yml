@@ -7,4 +7,5 @@ safe: true
 paginate: 16
 auto: true
 markdown: kramdown
-input: GFM
+kramdown:
+  input: GFM
